@@ -1,0 +1,31 @@
+[
+    {
+        "department": "Consumer Affairs Department",
+        "summary": "IDFC bank fraud, loan foreclosure issue",
+        "severity": "Moderate",
+        "raw": "IDFC bank is a fraud For last 3 months i am chasing and calling customer service of idfc to foreclose one of loans i took and paid 2 years ago. Everytine they say due to technical issue they are not able to close my account and will do it in 15 days. is there anything i can do?",
+        "location": "N/A",
+        "name": "N/A",
+        "content_platform": "Reddit",
+        "post_id": "1j2bt2r",
+        "date": "2025-03-03 05:46:10",
+        "content": "IDFC bank is a fraud\nFor last 3 months i am chasing and calling customer service of idfc to foreclose one of loans i took and paid 2 years ago. Everytine they say due to technical issue they are not able to close my account and will do it in 15 days.\n\nis there anything i can do?",
+        "username": "DepthAdmirable1914",
+        "subreddit": "IndiaSpeaks",
+        "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1j2bt2r/idfc_bank_is_a_fraud/",
+        "complaint_score": 0.7978693246841431,
+        "classification_result": {
+            "sequence": "IDFC bank is a fraud\nFor last 3 months i am chasing and calling customer service of idfc to foreclose one of loans i took and paid 2 years ago. Everytine they say due to technical issue they are not able to close my account and will do it in 15 days.\n\nis there anything i can do?",
+            "labels": [
+                "complaint",
+                "suggestion",
+                "compliment"
+            ],
+            "scores": [
+                0.7978693246841431,
+                0.17018458247184753,
+                0.031946051865816116
+            ]
+        }
+    }
+]

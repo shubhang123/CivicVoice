@@ -1,0 +1,136 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 20% 98%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 199 89% 48%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 217 32% 18%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 24 95% 53%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 199 89% 48%;
+
+    --radius: 0.75rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+  }
+
+  html {
+    @apply scroll-smooth;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply backdrop-blur-md bg-white/20 border border-white/30 shadow-lg;
+  }
+
+  .glass-card-dark {
+    @apply backdrop-blur-md bg-black/10 border border-white/10 shadow-lg;
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .section-padding {
+    @apply py-20 px-4 sm:px-8 md:px-12 lg:px-24;
+  }
+
+  .typing-container {
+    display: inline-block;
+    position: relative;
+  }
+
+  .typing-container::after {
+    content: '';
+    width: 2px;
+    height: 1em;
+    background-color: currentColor;
+    position: absolute;
+    right: -4px;
+    top: 50%;
+    transform: translateY(-50%);
+    animation: blink 1s step-end infinite;
+  }
+
+  .wave-container {
+    position: relative;
+    overflow: hidden;
+    height: 150px;
+    width: 100%;
+  }
+
+  .wave {
+    background-image: var(--wave-pattern);
+    background-size: 50% 100%;
+    position: absolute;
+    width: 200%;
+    height: 100%;
+    animation: wave 25s linear infinite;
+    transform-origin: center bottom;
+  }
+
+  .timeline-connector {
+    @apply absolute left-[19px] top-8 h-[calc(100%-52px)] w-[2px];
+    background: linear-gradient(to bottom, #0EA5E9, #1E293B);
+  }
+
+  .count-animation {
+    counter-reset: count 0;
+    animation: count 2s forwards linear;
+  }
+
+  @keyframes count {
+    from {
+      counter-increment: count 0;
+    }
+    to {
+      counter-increment: count var(--target);
+    }
+  }
+
+  .count-animation::after {
+    content: counter(count);
+  }
+
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+}

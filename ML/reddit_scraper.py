@@ -51,7 +51,7 @@ output_file = "complaints_output.json"
 ##############################
 # Function to Scrape Reddit Posts
 ##############################
-def get_reddit_posts(max_posts=100):
+def get_reddit_posts(max_posts=10):
     """
     Fetch the top Reddit posts from specified Indian subreddits.
     - Uses top() instead of new().
@@ -87,7 +87,7 @@ def get_reddit_posts(max_posts=100):
 
 def job():
     print("\nRunning live Reddit scraping and classification job...")
-    reddit_posts = get_reddit_posts(max_posts=100)
+    reddit_posts = get_reddit_posts(max_posts=10)
     print(f"Found {len(reddit_posts)} posts total.")
 
     complaints_list = []

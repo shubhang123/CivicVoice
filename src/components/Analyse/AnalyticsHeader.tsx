@@ -33,7 +33,7 @@ const AnalyticsHeader: React.FC<AnalyticsHeaderProps> = ({
         locations, and platforms to help identify patterns and prioritize responses.
       </p>
       
-      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4 pt-6">
+      <div className="grid grid-cols-1  gap-4 pt-6">
         <div className="glass-card p-4 flex  justify-center items-center gap-3">
           <div className="rounded-full bg-primary/10 p-3">
             <FileText className="h-5 w-3 text-primary" />
@@ -52,7 +52,7 @@ const AnalyticsHeader: React.FC<AnalyticsHeaderProps> = ({
           </div>
         </div>
         
-        <div className="glass-card p-4 flex  justify-center items-center gap-3">
+        {/* <div className="glass-card p-4 flex  justify-center items-center gap-3">
           <div className="rounded-full bg-chart-blue/10 p-3">
             <Activity className="h-5 w-5 text-chart-blue" />
           </div>
@@ -60,9 +60,9 @@ const AnalyticsHeader: React.FC<AnalyticsHeaderProps> = ({
             <p className="text-sm text-muted-foreground">API Calls</p>
             <h3 className="text-2xl font-bold">{Math.round(totalComplaints * 2.5)}</h3>
           </div>
-        </div>
+        </div> */}
         
-        <div className="glass-card p-4 flex items-center gap-3">
+        {/* <div className="glass-card p-4 flex items-center gap-3">
           <div className="rounded-full bg-severity-high/10 p-3">
             <AlertTriangle className="h-5 w-5 text-severity-high" />
           </div>
@@ -70,7 +70,7 @@ const AnalyticsHeader: React.FC<AnalyticsHeaderProps> = ({
             <p className="text-sm text-muted-foreground">Action Required</p>
             <h3 className="text-2xl font-bold">{Math.round(totalComplaints * 0.4)}</h3>
           </div>
-        </div>
+        </div> */}
       </div>
      
       

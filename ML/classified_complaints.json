@@ -1,7 +1,25 @@
 [
     {
         "department": "Public Works Department",
-        "summary": "Drainage Blockage in Perumbakkam, Chennai",
+        "summary": "Pothole-Ridden Roads in Whitefield, Bengaluru",
+        "severity": "High",
+        "location": "Whitefield, Bengaluru",
+        "name": "N/A",
+        "content_platform": "Reddit",
+        "content_platform_details": {
+            "post_id": "1j3kryc",
+            "date": "2025-03-04 20:32:57",
+            "content": "Pothole-Ridden Roads \u2013 Whitefield, Bengaluru\nMajor roads in Whitefield are full of potholes, causing frequent accidents, especially for two-wheelers. Heavy rains worsen the situation, with authorities taking no timely action.",
+            "username": "Either-Intention-223",
+            "subreddit": "complaintsIndia",
+            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3kryc/potholeridden_roads_whitefield_bengaluru/",
+            "complaint_score": 0.9715760946273804
+        },
+        "referenceNumber": "8af0dd46-b64a-4263-9814-15aea6734d04"
+    },
+    {
+        "department": "Public Works Department",
+        "summary": "Drainage blockage in Perumbakkam, Chennai causing waterlogging and disease outbreaks",
         "severity": "High",
         "location": "Perumbakkam, Chennai",
         "name": "N/A",
@@ -15,30 +33,12 @@
             "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3kthc/drainage_blockage_perumbakkam_chennai/",
             "complaint_score": 0.9860778450965881
         },
-        "referenceNumber": "6c4551bd-c225-4ccb-a498-3254f38e4f55"
+        "referenceNumber": "c4140511-0a36-417a-8057-0bb23ea0ea1e"
     },
     {
         "department": "Public Works Department",
-        "summary": "Pothole-Ridden Roads in Whitefield, Bengaluru",
-        "severity": "High",
-        "location": "Whitefield, Bengaluru",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3kryc",
-            "date": "2025-03-04 20:32:57",
-            "content": "Pothole-Ridden Roads \u2013 Whitefield, Bengaluru\nMajor roads in Whitefield are full of potholes, causing frequent accidents, especially for two-wheelers. Heavy rains worsen the situation, with authorities taking no timely action.",
-            "username": "Either-Intention-223",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3kryc/potholeridden_roads_whitefield_bengaluru/",
-            "complaint_score": 0.971576452255249
-        },
-        "referenceNumber": "09f78a45-ea1f-4298-81f3-75f5fe3e79e5"
-    },
-    {
-        "department": "Electricity Department",
         "summary": "Streetlight failures in Rajarhat, Kolkata",
-        "severity": "High",
+        "severity": "Moderate",
         "location": "Rajarhat, Kolkata",
         "name": "N/A",
         "content_platform": "Reddit",
@@ -49,13 +49,13 @@
             "username": "Either-Intention-223",
             "subreddit": "complaintsIndia",
             "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3krj4/streetlight_failures_rajarhat_kolkata/",
-            "complaint_score": 0.9796310663223267
+            "complaint_score": 0.9796311259269714
         },
-        "referenceNumber": "1b6ab63e-956c-49c7-975e-3db58d2452a6"
+        "referenceNumber": "bfd8ac42-29ae-4ad2-940b-6eb236d9e14d"
     },
     {
         "department": "Public Works Department",
-        "summary": "Construction noise disturbance in Whitefield, Bangalore",
+        "summary": "Construction noise causing disturbance in Whitefield, Bangalore",
         "severity": "High",
         "location": "Whitefield, Bangalore",
         "name": "N/A",
@@ -69,29 +69,29 @@
             "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3izr8/construction_noise_in_whitefield_bangalore_no/",
             "complaint_score": 0.9847944974899292
         },
-        "referenceNumber": "8a241a87-e11b-4042-ad7e-d67b48235ac9"
+        "referenceNumber": "4b6ec2de-8f90-4b31-b8dc-46a98a226446"
     },
     {
         "department": "Electricity Department",
-        "summary": "Bizarre electricity bills in Noida, unexpected increase in bill amount despite same usage",
-        "severity": "High",
+        "summary": "Bizarre electricity bills in Noida with no clear explanation",
+        "severity": "Moderate",
         "location": "Noida",
         "name": "N/A",
         "content_platform": "Reddit",
         "content_platform_details": {
             "post_id": "1j3izfv",
             "date": "2025-03-04 19:19:29",
-            "content": "Bizarre Electricity Bills in Noida \u2013 Are We Being Scammed? My electricity bill last month was \u20b91,800, and this month, it suddenly shot up to \u20b95,500\u2014even though my usage has remained the same. My neighbor is facing the same issue. Something fishy is going on with Noida Power Company Ltd (NPCL), and their customer service just tells us to \u2018wait for next month\u2019s bill.\u2019 Has anyone managed to get an electricity bill corrected in Noida?",
+            "content": "Bizarre Electricity Bills in Noida \u2013 Are We Being Scammed?\nMy electricity bill last month was \u20b91,800, and this month, it suddenly shot up to \u20b95,500\u2014even though my usage has remained the same. My neighbor is facing the same issue. Something fishy is going on with Noida Power Company Ltd (NPCL), and their customer service just tells us to \u2018wait for next month\u2019s bill.\u2019 Has anyone managed to get an electricity bill corrected in Noida?",
             "username": "Strong_Cry_9309",
             "subreddit": "complaintsIndia",
             "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3izfv/bizarre_electricity_bills_in_noida_are_we_being/",
-            "complaint_score": 0.9734519720077515
+            "complaint_score": 0.9734519124031067
         },
-        "referenceNumber": "b6b29bcb-66a0-4d10-a1bc-e6d59fcd67b7"
+        "referenceNumber": "4fedee08-b5ec-4cf6-8a8d-1606dda927f9"
     },
     {
         "department": "Consumer Affairs Department",
-        "summary": "HDFC Bank's hidden service charges",
+        "summary": "HDFC Bank's hidden charges without prior intimation or explanation",
         "severity": "High",
         "location": "N/A",
         "name": "N/A",
@@ -105,11 +105,11 @@
             "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3iypq/hdfc_banks_hidden_charges/",
             "complaint_score": 0.9695112109184265
         },
-        "referenceNumber": "3e66d0e4-8f5b-4f5b-bbf8-64bf5d7bd55c"
+        "referenceNumber": "c7ae0709-9ce3-4e32-b850-67c45793622a"
     },
     {
         "department": "Consumer Affairs Department",
-        "summary": "Delay in refund from Amazon India",
+        "summary": "Amazon India refund issue",
         "severity": "High",
         "location": "India",
         "name": "N/A",
@@ -121,9 +121,9 @@
             "username": "Strong_Cry_9309",
             "subreddit": "complaintsIndia",
             "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3iy08/ecommerce_refund_nightmare_amazon_india_slacking/",
-            "complaint_score": 0.9686759114265442
+            "complaint_score": 0.9686757326126099
         },
-        "referenceNumber": "0c4bebc4-65de-4f28-8076-d028acd13f0d"
+        "referenceNumber": "f202d0ea-388c-4b5e-91f0-df994147c5fc"
     },
     {
         "department": "Public Works Department",
@@ -139,535 +139,49 @@
             "username": "Formal-Chemistry-245",
             "subreddit": "complaintsIndia",
             "url": "https://www.reddit.com/r/complaintsIndia/comments/1j2j3on/too_much_traffic/",
-            "complaint_score": 0.9810264706611633
+            "complaint_score": 0.9810263514518738
         },
-        "referenceNumber": "f822877c-d69a-467a-8de0-36456965cb30"
-    },
-    {
-        "department": "Transport Department",
-        "summary": "Increase in traffic in Indore",
-        "severity": "Moderate",
-        "location": "Indore",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j6onbu",
-            "date": "2025-03-08 19:20:13",
-            "content": "Traffic In Indore\nIncrease in Traffic day by day , something needs to be done",
-            "username": "Present-Tower-1957",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j6onbu/traffic_in_indore/",
-            "complaint_score": 0.9819596409797668
-        },
-        "referenceNumber": "be086034-99d9-4bd5-8c11-54f793b75b95"
-    },
-    {
-        "department": "Electricity Department",
-        "summary": "Power cuts in Ujjain",
-        "severity": "High",
-        "location": "Ujjain",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j4mmsa",
-            "date": "2025-03-06 03:47:31",
-            "content": "Why does Ujjain still have power cuts in 2025?\nCan someone explain why Ujjain still has random power cuts? Every summer, the moment temperatures rise, the electricity starts going off multiple times a day. And in monsoon? One thunderstorm and the whole city\u2019s power is gone for hours.\n\nWe\u2019re not living in the 90s anymore\u2014why is this still happening? Indore rarely faces such issues, but Ujjain, Dewas, and surrounding towns keep dealing with the same nonsense. When will the electricity board actually fix this?",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j4mmsa/why_does_ujjain_still_have_power_cuts_in_2025/",
-            "complaint_score": 0.9700530767440796
-        },
-        "referenceNumber": "771751e6-5bb8-4995-b0c2-2214a4d91440"
-    },
-    {
-        "department": "Health and Sanitation Department",
-        "summary": "Inconsistent cleanliness in Indore city",
-        "severity": "Moderate",
-        "location": "Indore",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j4mm7g",
-            "date": "2025-03-06 03:46:35",
-            "content": "Indore's \"cleanest city\" title is a joke in some areas\nYes, Indore has won the Swachh Bharat award multiple times, but let\u2019s be honest\u2014this only applies to a few selected areas. You go to places like MG Road, 56 Dukaan, or Rajwada, and everything looks neat. But step into Banganga, Pardesipura, or parts of Aerodrome Road, and you\u2019ll see overflowing garbage, broken drains, and zero maintenance.\n\nIt\u2019s almost like the cleanliness drive is just for show. The moment the inspections are done, it\u2019s back to the same old mess. Why can\u2019t basic sanitation be consistent across the city instead of just for the cameras?",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j4mm7g/indores_cleanest_city_title_is_a_joke_in_some/",
-            "complaint_score": 0.9760072231292725
-        },
-        "referenceNumber": "b74af287-d6a1-4931-adab-ddb54becc15a"
-    },
-    {
-        "department": "Water Supply Department",
-        "summary": "Water supply issues in Indore, MP",
-        "severity": "High",
-        "location": "Indore, MP",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j4mly2",
-            "date": "2025-03-06 03:46:09",
-            "content": "Why does Indore's water supply keep getting worse?\nIndore is supposed to be one of the most developed cities in MP, but somehow, getting a steady water supply is still a luxury in many areas. Every summer, entire neighborhoods like Rau, Nipania, and Sudama Nagar struggle with water cuts, and the worst part? No one even informs us when the supply will be restored.\n\nMeanwhile, tanker mafias are making a fortune charging crazy prices. Are we seriously supposed to buy water in a city that\u2019s right next to the Narmada? Where\u2019s all that Smart City funding going if we can\u2019t even get the basics right?",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j4mly2/why_does_indores_water_supply_keep_getting_worse/",
-            "complaint_score": 0.950079619884491
-        },
-        "referenceNumber": "2d85071d-f5ad-48e9-a97a-d1ff15152d41"
-    },
-    {
-        "department": "Transport Department",
-        "summary": "Indore traffic is unmanageable, chaotic and lacks traffic police enforcement",
-        "severity": "High",
-        "location": "Indore",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j4kyud",
-            "date": "2025-03-06 02:20:53",
-            "content": "Indore traffic is a joke. Is anyone even trying to fix it?\nWhy is driving in Indore getting worse every year? Vijay Nagar, Rajwada, Palasia\u2019it doesn\u2019t matter what time of day it is, there\u2019s always insane traffic. People don\u2019t follow lanes, bikers squeeze into every tiny gap, and traffic signals are either ignored or don\u2019t even work.\n\nThe worst part? Metro construction has made things even more chaotic. They block roads for months, and then when they reopen, it\u2019s still the same mess. Where are the traffic police? Oh right, stopping people randomly to fine them while letting overloaded autos and wrong-side bikers go free.\n\nAt this point, is Indore just destined to have Bangalore-level traffic with none of the public transport options?",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j4kyud/indore_traffic_is_a_joke_is_anyone_even_trying_to/",
-            "complaint_score": 0.8835358023643494
-        },
-        "referenceNumber": "1b4912c8-4a38-4466-8eb6-39d6125f28f7"
-    },
-    {
-        "department": "Public Works Department",
-        "summary": "Poor road conditions in Indore and Ujjain despite 'Smart City' initiatives",
-        "severity": "High",
-        "location": "Indore and Ujjain",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j4kwd7",
-            "date": "2025-03-06 02:17:23",
-            "content": "Why are Indore & Ujjain roads still a mess despite all the \u2018Smart City\u2019 talk?\nEvery year, they dig up the roads in Indore and Ujjain for some \u201cdevelopment\u201d project, and every year, they leave them worse than before. The moment monsoon hits, half the city turns into a pothole obstacle course. And don\u2019t even get me started on the dust! If you take a two-wheeler, congratulations\u2014you\u2019re now a part-time inhaler of construction debris.\n\nUjjain\u2019s Simhastha happens every 12 years, and suddenly, everything gets a facelift overnight. But for the rest of the time? Broken footpaths, open drains, and chaotic traffic. Why is it so hard to maintain basic infrastructure year-round?\n\nAnd Indore\u2014the so-called cleanest city\u2014can we talk about how some areas are spotless while others look completely neglected? Annapurna, Sudama Nagar, and parts of Vijay Nagar still deal with overflowing garbage despite all the Swachh Bharat hype. Is it just me, or do they only care about \u201ccleanliness\u201d where the cameras are?\n\nHas anyone actually seen long-term road repairs or is it just a never-ending cycle of patchwork?",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j4kwd7/why_are_indore_ujjain_roads_still_a_mess_despite/",
-            "complaint_score": 0.9650712609291077
-        },
-        "referenceNumber": "0c742a82-deaf-4c17-b5a9-63c4ebe2d634"
-    },
-    {
-        "department": "Health and Sanitation Department",
-        "summary": "Inadequate garbage collection and recycling management in metro cities",
-        "severity": "Moderate",
-        "location": "metro cities",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j4a5st",
-            "date": "2025-03-05 18:33:22",
-            "content": "Garbage collection\nThe things in some metro cities is increase in waste production and the management of it is getting harder and people not recycling properly which is harmful to us in a way",
-            "username": "Trick-Independence46",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j4a5st/garbage_collection/",
-            "complaint_score": 0.9559290409088135
-        },
-        "referenceNumber": "b2080dc3-26f9-49db-b583-1a892f1066df"
-    },
-    {
-        "department": "Transport Department",
-        "summary": "Traffic Mismanagement in Hinjewadi, Pune",
-        "severity": "High",
-        "location": "Hinjewadi, Pune",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3kt8c",
-            "date": "2025-03-04 20:34:23",
-            "content": "Traffic Mismanagement \u2013 Hinjewadi, Pune\nDaily traffic congestion due to IT park rush hours is worsened by poor signal management and lack of traffic police intervention, leading to long delays and road rage incidents.",
-            "username": "Either-Intention-223",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3kt8c/traffic_mismanagement_hinjewadi_pune/",
-            "complaint_score": 0.9818001985549927
-        },
-        "referenceNumber": "59739449-2316-49e3-b5de-a9b3309f5d99"
-    },
-    {
-        "department": "Environment Department",
-        "summary": "Construction dust pollution in Gachibowli, Hyderabad",
-        "severity": "High",
-        "location": "Gachibowli, Hyderabad",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3ksm1",
-            "date": "2025-03-04 20:33:43",
-            "content": "Construction Dust Pollution \u2013 Gachibowli, Hyderabad\nOngoing construction projects generate excessive dust, causing respiratory issues for residents. Despite rules requiring builders to control pollution, enforcement remains weak, affecting air quality.",
-            "username": "Either-Intention-223",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3ksm1/construction_dust_pollution_gachibowli_hyderabad/",
-            "complaint_score": 0.9684827327728271
-        },
-        "referenceNumber": "b3e97775-e840-4228-acaa-aaf06dff6e3f"
-    },
-    {
-        "department": "Health and Sanitation Department",
-        "summary": "Uncollected garbage causing unhygienic conditions",
-        "severity": "High",
-        "location": "Mira Road, Mumbai",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3krqq",
-            "date": "2025-03-04 20:32:40",
-            "content": "Garbage Dumping \u2013 Mira Road, Mumbai\nUncollected garbage piles up on street corners, causing unhygienic conditions and attracting stray animals. Despite Swachh Bharat campaigns, waste management services are inconsistent, leaving residents frustrated.",
-            "username": "Either-Intention-223",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3krqq/garbage_dumping_mira_road_mumbai/",
-            "complaint_score": 0.9851593971252441
-        },
-        "referenceNumber": "541cc39f-c38d-4540-9318-3e95d06cf360"
-    },
-    {
-        "department": "Public Works Department",
-        "summary": "Sewage Overflow in Uttam Nagar, Delhi",
-        "severity": "High",
-        "location": "Uttam Nagar, Delhi",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3kqrx",
-            "date": "2025-03-04 20:31:33",
-            "content": "Sewage Overflow \u2013 Uttam Nagar, Delhi\nResidents face frequent sewage overflows due to clogged drains, leading to foul smells, mosquito breeding, and waterborne diseases. Complaints to the municipal corporation have not led to permanent solutions.",
-            "username": "Either-Intention-223",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3kqrx/sewage_overflow_uttam_nagar_delhi/",
-            "complaint_score": 0.9944453835487366
-        },
-        "referenceNumber": "97d905f5-e7a5-4d8f-8454-dc3f4503a9fb"
-    },
-    {
-        "department": "Environment Department",
-        "summary": "Industrial pollution in Gujarat from chemical and textile industries",
-        "severity": "High",
-        "location": "Gujarat",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3koux",
-            "date": "2025-03-04 20:29:23",
-            "content": "Industrial Pollution in Gujarat\nChemical and textile industries in Gujarat release untreated waste into rivers, contaminating drinking water sources and affecting the health of local communities.",
-            "username": "Either-Intention-223",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3koux/industrial_pollution_in_gujarat/",
-            "complaint_score": 0.9391297101974487
-        },
-        "referenceNumber": "d07e9704-238a-448a-a55a-a805e215acd0"
-    },
-    {
-        "department": "Transport Department",
-        "summary": "Traffic rule violations and poor enforcement in Hyderabad",
-        "severity": "High",
-        "location": "Hyderabad",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3kob1",
-            "date": "2025-03-04 20:28:44",
-            "content": "Traffic Rule Violations in Hyderabad:\nReckless driving, signal jumping, and poor enforcement of traffic rules in Hyderabad lead to frequent accidents, putting pedestrians and motorists at risk.",
-            "username": "Either-Intention-223",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3kob1/traffic_rule_violations_in_hyderabad/",
-            "complaint_score": 0.9216598272323608
-        },
-        "referenceNumber": "69773bef-5ed0-4ecf-90c6-61ff422074cd"
-    },
-    {
-        "department": "Environment Department",
-        "summary": "Plastic waste on Kerala beaches harming marine life and environment",
-        "severity": "High",
-        "location": "Kerala",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3knin",
-            "date": "2025-03-04 20:27:48",
-            "content": "Plastic Waste in Kerala Beaches\nTourists and locals litter Kerala\u2019s beautiful beaches with plastic waste, harming marine life, polluting the environment, and reducing tourism appeal.",
-            "username": "Either-Intention-223",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3knin/plastic_waste_in_kerala_beaches/",
-            "complaint_score": 0.9695132970809937
-        },
-        "referenceNumber": "7dab2c59-9e2e-4cd5-b8b7-b3b2ee91ad30"
-    },
-    {
-        "department": "Public Works Department",
-        "summary": "Potholes in Pune roads, poor road maintenance, accidents, and injuries",
-        "severity": "High",
-        "location": "Pune",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3kmtq",
-            "date": "2025-03-04 20:27:01",
-            "content": "Potholes in Pune Roads\nPoor road maintenance in Pune leads to pothole-related accidents, causing injuries and deaths, especially during the monsoon, despite repeated complaints from citizens.",
-            "username": "Either-Intention-223",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3kmtq/potholes_in_pune_roads/",
-            "complaint_score": 0.985247790813446
-        },
-        "referenceNumber": "a382c027-13c7-40fc-b7bf-b38480c351a6"
-    },
-    {
-        "department": "Public Works Department",
-        "summary": "poor road maintenance, potholes in Pune roads",
-        "severity": "High",
-        "location": "Pune",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3klz6",
-            "date": "2025-03-04 20:26:04",
-            "content": "Potholes in Pune Roads\nPoor road maintenance in Pune leads to pothole-related accidents, causing injuries and deaths, especially during the monsoon, despite repeated complaints from citizens.",
-            "username": "Either-Intention-223",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3klz6/potholes_in_pune_roads/",
-            "complaint_score": 0.985247790813446
-        },
-        "referenceNumber": "de3d40ff-b93a-4b38-a507-a3ecef6a88c3"
-    },
-    {
-        "department": "Public Works Department",
-        "summary": "Garbage dump in a park in Kondhwa, Pune",
-        "severity": "High",
-        "location": "Kondhwa, Pune",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3iz6k",
-            "date": "2025-03-04 19:19:11",
-            "content": "Garbage Dump Instead of a Park \u2013 Kondhwa, Pune\nThere used to be a beautiful little park in Kondhwa, where kids played and elderly people gathered for morning walks. Now, it\u2019s turned into an unofficial dumping ground, with trash and stray dogs everywhere. Complaints to the municipal corporation have gone nowhere. Is there any way to get the authorities to take action? Or do we just have to accept that public spaces in India will always be neglected?",
-            "username": "Strong_Cry_9309",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3iz6k/garbage_dump_instead_of_a_park_kondhwa_pune/",
-            "complaint_score": 0.9870242476463318
-        },
-        "referenceNumber": "bb757954-fa8c-4c47-805d-6a9555d3750d"
-    },
-    {
-        "department": "Telecom Department",
-        "summary": "Slow internet speeds with Jio Fiber in Bangalore",
-        "severity": "High",
-        "location": "Bangalore",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3iyci",
-            "date": "2025-03-04 19:18:17",
-            "content": "Jio Fiber in Bangalore \u2013 Speeds So Slow, Even Pigeons Can Deliver Faster\nI pay for a 200 Mbps Jio Fiber plan in Bangalore, but during peak hours, I barely get 10 Mbps. Streaming anything in HD is a struggle, and customer support just tells me to restart my router as if that magically fixes network congestion. Is anyone else dealing with this nonsense? Thinking of switching to Airtel, but not sure if it\u2019s any better.",
-            "username": "Strong_Cry_9309",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3iyci/jio_fiber_in_bangalore_speeds_so_slow_even/",
-            "complaint_score": 0.9921019673347473
-        },
-        "referenceNumber": "702539d7-412f-4788-a37c-ccaeca3e2360"
-    },
-    {
-        "department": "Transport Department",
-        "summary": "DTC buses in Delhi are unreliable, with long waiting times and frequent non-stops at designated stops",
-        "severity": "Moderate",
-        "location": "Delhi",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3ixqp",
-            "date": "2025-03-04 19:17:38",
-            "content": "Delhi\u2019s DTC Buses \u2013 More Like a Ghost Service!\nI don\u2019t know what\u2019s going on with DTC buses lately, but it feels like they\u2019re becoming extinct. The waiting time has shot up, and half the time, buses don\u2019t even stop at designated stops. During peak hours, it's a nightmare\u2014buses are either jam-packed or simply don\u2019t show up. Why isn\u2019t the Delhi government addressing this? Do we have any forum where this issue can be raised?",
-            "username": "Strong_Cry_9309",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3ixqp/delhis_dtc_buses_more_like_a_ghost_service/",
-            "complaint_score": 0.9616086483001709
-        },
-        "referenceNumber": "ad894807-34fa-497a-b092-e32823ac8b27"
-    },
-    {
-        "department": "Water Supply Department",
-        "summary": "Water supply cuts without prior notice in Andheri, Mumbai",
-        "severity": "High",
-        "location": "Andheri, Mumbai",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j3ixei",
-            "date": "2025-03-04 19:17:15",
-            "content": "Water Supply Woes in Andheri, Mumbai\nFor the past few months, our area in Andheri has been facing water supply cuts without any prior notice. Sometimes, there\u2019s no water for an entire day, and when it comes back, the pressure is so low that filling a bucket takes an hour. The worst part? No official communication from the municipal authorities. How are people supposed to plan their daily lives like this? Anyone else facing similar issues in Mumbai?",
-            "username": "Strong_Cry_9309",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j3ixei/water_supply_woes_in_andheri_mumbai/",
-            "complaint_score": 0.972445547580719
-        },
-        "referenceNumber": "5e5e8ef1-b599-4e4b-90f3-e65f5e534352"
-    },
-    {
-        "department": "Public Amenities Department",
-        "summary": "Unmaintained local park in Banjara Hills, Hyderabad",
-        "severity": "Moderate",
-        "location": "Banjara Hills, Hyderabad",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j367ed",
-            "date": "2025-03-04 08:24:38",
-            "content": "Unmaintained Parks in Hyderabad\nHello everyone,\nI live near a local park in Banjara Hills, Hyderabad, and it\u2019s become a shadow of its former self. The play area is poorly maintained and there\u2019s litter everywhere. It\u2019s sad to see such a public space fall into disrepair. Has anyone raised this issue with the civic body, or is there a community group that works on park clean-ups?",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j367ed/unmaintained_parks_in_hyderabad/",
-            "complaint_score": 0.9747701287269592
-        },
-        "referenceNumber": "5e8c0db4-d6b6-42ef-ade6-6b3d93dfc8b9"
-    },
-    {
-        "department": "Public Works Department",
-        "summary": "Dustbins removal in Indore, affecting city cleanliness",
-        "severity": "Moderate",
-        "location": "Indore",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j2j3rb",
-            "date": "2025-03-03 13:51:54",
-            "content": "Where Did All the Dustbins in Indore Go?\nOkay, seriously, am I going crazy, or did Indore just make all the public dustbins disappear overnight? A year ago, you could find a dustbin at almost every street corner, and now it\u2019s like they\u2019ve all vanished. I walked around Sapna-Sangeeta and even MG Road today, and not a single dustbin in sight. What\u2019s the logic behind this? Do they expect people to just carry their trash home now? Indore Municipal Corporation, if you guys removed them, at least tell us why! The city was much cleaner when they were around",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j2j3rb/where_did_all_the_dustbins_in_indore_go/",
-            "complaint_score": 0.9387473464012146
-        },
-        "referenceNumber": "8a0556b1-e198-484b-9a90-9d1d7cfbe87f"
-    },
-    {
-        "department": "Public Amenities Department",
-        "summary": "Lack of public toilets near Rajwada in Indore",
-        "severity": "Moderate",
-        "location": "Rajwada, Indore",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j2j2xr",
-            "date": "2025-03-03 13:50:49",
-            "content": "Public Toilets Near Rajwada\nRajwada is one of Indore\u2019s main attractions, but finding a public toilet here is like finding treasure. The ones that exist are either locked or smell so bad you\u2019d rather hold it in. Indore Municipal Corporation, do tourists and locals not deserve basic facilities?",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j2j2xr/public_toilets_near_rajwada/",
-            "complaint_score": 0.9727470278739929
-        },
-        "referenceNumber": "7568ca8b-cac0-4a36-a9c2-b74552aaeb7a"
-    },
-    {
-        "department": "Electricity Department",
-        "summary": "Power cuts in Salt Lake, Kolkata",
-        "severity": "High",
-        "location": "Salt Lake, Kolkata",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j2j2ns",
-            "date": "2025-03-03 13:50:22",
-            "content": "Power Cuts in Salt Lake\nKolkata folks, why is Salt Lake still having power cuts in 2025? Every evening at 7 PM like clockwork, we lose power for at least an hour. Are we living in a village or what? CESC, do something before we all melt in this heat!",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j2j2ns/power_cuts_in_salt_lake/",
-            "complaint_score": 0.9855301380157471
-        },
-        "referenceNumber": "5ae45efd-02a1-4b55-ac17-d15a9c003605"
-    },
-    {
-        "department": "Transport Department",
-        "summary": "Auto Rickshaw Overcharging in Viman Nagar",
-        "severity": "High",
-        "location": "Viman Nagar, Pune",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j2j2ac",
-            "date": "2025-03-03 13:49:55",
-            "content": "Auto Rickshaw Overcharging in Viman Nagar\nPune auto drivers are on another level! Viman Nagar rides are now a scam\u2014no one uses the meter, and they just quote whatever price they feel like. Tried to take one from the airport, and the guy straight-up asked for 500 bucks for a 5 km ride. What\u2019s the point of having meters if no one follows them?",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j2j2ac/auto_rickshaw_overcharging_in_viman_nagar/",
-            "complaint_score": 0.9549927711486816
-        },
-        "referenceNumber": "9d9e6f64-8ac1-42b6-a799-c4e8b1973bfc"
+        "referenceNumber": "d37d084b-665e-4466-8166-58b1adcdd0b4"
     },
     {
         "department": "Environment and Parks Department",
-        "summary": "Noise pollution due to honking and late-night construction work",
-        "severity": "Moderate",
-        "location": "Gachibowli, Hyderabad",
+        "summary": "Illegal dumping near Pipliyahana Lake",
+        "severity": "High",
+        "location": "Pipliyahana Lake",
         "name": "N/A",
         "content_platform": "Reddit",
         "content_platform_details": {
-            "post_id": "1j2izme",
-            "date": "2025-03-03 13:45:58",
-            "content": "Noise Pollution Near Gachibowli\nI live near Gachibowli, hyd and the constant honking plus late-night construction work is driving me nuts. Are there no regulations about this? Where do we even file a complaint about noise at 2 AM? This is honestly affecting my sleep and my work.",
+            "post_id": "1jp1rqb",
+            "date": "2025-04-01 17:43:07",
+            "content": "Illegal dumping near Pipliyahana Lake\u2014IMC ignoring environmental damage!\nPeople have started dumping construction debris near Pipliyahana Lake, and IMC is turning a blind eye. This is a serious environmental hazard. Has anyone tried reporting it? We need to act before our lakes get destroyed!",
             "username": "GeologistBusy2288",
             "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j2izme/noise_pollution_near_gachibowli/",
-            "complaint_score": 0.9356037974357605
+            "url": "https://www.reddit.com/r/complaintsIndia/comments/1jp1rqb/illegal_dumping_near_pipliyahana_lakeimc_ignoring/",
+            "complaint_score": 0.9366738200187683
         },
-        "referenceNumber": "65ebf91c-aa7c-44d2-961e-09394dfa5fa8"
+        "referenceNumber": "bd413139-8c66-4b9d-b8df-9018914cf905"
     },
     {
         "department": "Water Supply Department",
-        "summary": "Water supply issues in Koramangala, Bangalore",
-        "severity": "Moderate",
-        "location": "Koramangala, Bangalore",
+        "summary": "water supply issues, dry taps, Rajmohalla",
+        "severity": "High",
+        "location": "Rajmohalla",
         "name": "N/A",
         "content_platform": "Reddit",
         "content_platform_details": {
-            "post_id": "1j2izdn",
-            "date": "2025-03-03 13:45:36",
-            "content": "Water Supply Issues in Koramangala\nAnyone else here in Koramangala, blr facing water supply problems? My building has been getting water only for a couple of hours in the morning, then nothing for the rest of the day. Bruhat Bengaluru Mahanagara Palike, we pay our bills\u2014can we get a consistent supply already?",
+            "post_id": "1jp1rdc",
+            "date": "2025-04-01 17:42:43",
+            "content": "Water supply issues in Rajmohalla\u2014Dry taps every morning!\nEvery morning between 6 AM and 9 AM, there\u2019s barely any water pressure in Rajmohalla. Complaints have been made, but IMC keeps saying 'maintenance work is in progress.' How long will this go on? If anyone else is facing the same issue, let\u2019s escalate this together.",
             "username": "GeologistBusy2288",
             "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j2izdn/water_supply_issues_in_koramangala/",
-            "complaint_score": 0.9900184273719788
+            "url": "https://www.reddit.com/r/complaintsIndia/comments/1jp1rdc/water_supply_issues_in_rajmohalladry_taps_every/",
+            "complaint_score": 0.9937859177589417
         },
-        "referenceNumber": "9631afe9-c608-4a6e-824f-e53ed8a46574"
+        "referenceNumber": "2cf01fae-628f-4647-b936-98f1d08045ad"
     },
     {
         "department": "Health and Sanitation Department",
-        "summary": "Overflowing trash in Andheri, Mumbai",
-        "severity": "High",
-        "location": "Andheri, Mumbai",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j2iz0s",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j2iz0s/mumbai_overflowing_trash_in_andheri/",
-            "date": "2025-03-03 13:45:06",
-            "content": "Mumbai - Overflowing Trash in Andheri\nI love this city, but I swear, the garbage situation in Andheri is insane these days. Piles of trash on every corner, especially near the station. It\u2019s peak monsoon season and the smell is intolerable. BMC, please do something about this ASAP!",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "complaint_score": 0.9812494516372681
-        },
-        "referenceNumber": "8f5b8676-19b6-4545-ac5b-7867c571e3e3"
-    },
-    {
-        "department": "Local Police Station",
-        "summary": "Traffic congestion at Palasia Square, Indore due to out of sync traffic lights and lack of lane discipline",
-        "severity": "High",
-        "location": "Palasia Square, Indore",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1j2iybx",
-            "date": "2025-03-03 13:44:03",
-            "content": "Traffic Woes at Palasia Square\nWhy does it feel like half the city is stuck at Palasia Square,Indore every morning? The traffic lights seem totally out of sync and people don\u2019t even follow basic lane rules. I literally spent 30 minutes to cross a single intersection today. Indore Traffic Police, can we get some help here?!",
-            "username": "GeologistBusy2288",
-            "subreddit": "complaintsIndia",
-            "url": "https://www.reddit.com/r/complaintsIndia/comments/1j2iybx/traffic_woes_at_palasia_square/",
-            "complaint_score": 0.9874728322029114
-        },
-        "referenceNumber": "bcf1c0e2-dcb1-4a14-969d-0d5efaa019a9"
-    },
-    {
-        "department": "Health and Sanitation Department",
-        "summary": "Delhi healthcare system overwhelmed, people dying while waiting for treatment",
+        "summary": "Delhi medical treatment wait times resulting in deaths",
         "severity": "High",
         "location": "Delhi",
         "name": "N/A",
@@ -679,538 +193,16 @@
             "username": "N/A",
             "subreddit": "india",
             "url": "https://v.redd.it/dkjdc0upf2v61",
-            "complaint_score": 0.9616330862045288
+            "complaint_score": 0.9616329669952393
         },
-        "referenceNumber": "0fc49254-67cd-49de-b3e2-3dd3d53def1d"
-    },
-    {
-        "department": "Culture and Education Department",
-        "summary": "Criticizing Indian entertainment industry for using brown face makeup instead of casting darker-skinned actors",
-        "severity": "Moderate",
-        "location": "India",
-        "name": "rohithkumarsp",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "nspspb",
-            "date": "2021-06-05 06:53:54",
-            "content": "It's 2021 and India is still doing brown face instead of actually hiring darker skin actors.",
-            "username": "rohithkumarsp",
-            "subreddit": "india",
-            "url": "https://i.redd.it/35jwxnw4ae371.jpg",
-            "complaint_score": 0.9751619100570679
-        },
-        "referenceNumber": "a13b6ecb-13da-43dd-a18f-5ade2cb31297"
-    },
-    {
-        "department": "Health and Sanitation Department",
-        "summary": "Grandmother recovered from COVID-19",
-        "severity": "Low",
-        "location": "India",
-        "name": "randomvariable10",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "n61pqx",
-            "date": "2021-05-06 07:26:16",
-            "content": "My grandmother fought and beat COVID after battling it for a month, and turned 94 today..",
-            "username": "randomvariable10",
-            "subreddit": "india",
-            "url": "https://i.redd.it/bceeyvekcgx61.jpg",
-            "complaint_score": 0.8280636668205261
-        },
-        "referenceNumber": "d10d9a31-8538-470a-84da-bdbf141a5a27"
-    },
-    {
-        "department": "Disaster Management Department",
-        "summary": "Donation for Kerala flood relief",
-        "severity": "Low",
-        "location": "Kerala",
-        "name": "TheBeginnerr",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "981o7s",
-            "date": "2018-08-17 12:02:17",
-            "content": "Will donate thrice the number of upvotes (amount in Rs.) i get for this thread in next 24 hours\n>**Note**: If you want to know what this is all about, and how rains can cause so much damage, read this amazing in depth write-up by /u/fdsn (It covers all the basics for those who are new to this topic as well) ----> \n\n>https://www.reddit.com/r/india/comments/981o7s/will_donate_thrice_the_number_of_upvotes_amount/e4d2pl5/\n\n>also check the stickied comment for more info.\n\n\n\n\n**donation links** - \n\n* https://donation.cmdrf.kerala.gov.in/\n\n* **Paytm** link since they are matching the donations - \n\n      https://paytm.com/helpinghand/kerala-cm-s-distress-relief-fund.\n\n* Those who are queasy about donating cash can easily **donate goods through amazon** - \n\n    https://www.amazon.in/b?ie=UTF8&node=8891257031\n\n>.\n\n>.\n\n**PS:** https://www.youtube.com/watch?v=WaaANll8h18  \n\nor  \n\nhttps://www.youtube.com/watch?v=AeZ6a1A0-ow\n\n\nPSS: im ~~druk~~ drunk  duh! but wont regret it\n\nedit: damn! this blew up :) just woke up and dont worry i will donate. ~~should i donate some now or wait for 24 hours to complete?~~\n \n\nedit2: ...\n\nedit3 : ....\n\n**edit4** : since the web portal was keep timing out **i decided to donate by 'quick transfer' of sbi net banking into the CMDRF directly. the limit is 10000/day so i donated 10,000rs. rest will be donated tomorrow.**\n\n**proof** - https://i.imgur.com/H9S9DGG.jpg\n\n**edit5:   donated 25000 rs this morning -**\n\n**proof** - https://i.imgur.com/9PYqzSZ.jpg\n\n\n**total amount donated (by me) so for - 500+900+10000+69+25000= 36469 rs ($522).**\n\n\n**A big shout out to the great folks of /r/india  who generously  donated much more than this stupid thread goal.** always remember, every paisa counts. \n\n***Final edit -***  \n\n[ **I do declare ...bankruptcy!** :\\)](https://www.youtube.com/watch?v=C-m3RtoguAQ&feature=youtu.be&t=1m05s)",
-            "username": "TheBeginnerr",
-            "subreddit": "india",
-            "url": "https://www.reddit.com/r/india/comments/981o7s/will_donate_thrice_the_number_of_upvotes_amount/",
-            "complaint_score": 0.8787139654159546
-        },
-        "referenceNumber": "962bf1d9-0d97-4b7a-9fe7-bc97b3bf8626"
-    },
-    {
-        "department": "Water Supply Department",
-        "summary": "Watering hot road in Tamil Nadu for Hindu devotees",
-        "severity": "Moderate",
-        "location": "Tamil Nadu",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1bunwwx",
-            "date": "2024-04-03 09:03:39",
-            "content": "Muslims people watering hot road in Tamil Nadu so there is some relief for hindu devotees walking barefoot to temple.",
-            "username": "Rosake3",
-            "subreddit": "india",
-            "url": "https://v.redd.it/7j4vfzlj57sc1",
-            "complaint_score": 0.8903622627258301
-        },
-        "referenceNumber": "f4c3f48c-efe9-4331-b04d-493040bad590"
-    },
-    {
-        "department": "N/A",
-        "summary": "Indian reply to NYtimes cartoon on Paris climate accord",
-        "severity": "Low",
-        "location": "N/A",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "6f10op",
-            "date": "2017-06-03 12:47:25",
-            "content": "Indian reply to NYtimes cartoon on Paris climate accord by Satish Acharya.",
-            "username": "spikyraccoon",
-            "subreddit": "india",
-            "url": "http://imgur.com/a/U48v9",
-            "complaint_score": 0.9197908043861389
-        },
-        "referenceNumber": "06c5687e-310e-40cb-99d0-ecd4d1d795c2"
-    },
-    {
-        "department": "Public Works Department",
-        "summary": "Lamborghini blocked by buffaloes",
-        "severity": "Moderate",
-        "location": "India",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "h8q51x",
-            "date": "2020-06-14 08:42:45",
-            "content": "Lamborghini blocked by buffaloes in India",
-            "username": "GoneHippocamping",
-            "subreddit": "india",
-            "url": "https://i.redd.it/ou46zzl19u451.jpg",
-            "complaint_score": 0.9442778825759888
-        },
-        "referenceNumber": "a933abff-21f6-462f-a2f9-d59a49e28404"
-    },
-    {
-        "department": "N/A",
-        "summary": "Oscar win",
-        "severity": "Low",
-        "location": "N/A",
-        "name": "bhodrolok",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "11z8qpb",
-            "date": "2023-03-23 04:28:24",
-            "content": "The Elephant Whisperers with their Oscar! LetsCinema on Twitter",
-            "username": "bhodrolok",
-            "subreddit": "india",
-            "url": "https://i.redd.it/96ezv74ojgpa1.jpg",
-            "complaint_score": 0.8551000356674194
-        },
-        "referenceNumber": "09ddc9b9-c5bd-45ef-8979-8e7dad091d81"
-    },
-    {
-        "department": "Environment Department",
-        "summary": "Heatwave",
-        "severity": "Moderate",
-        "location": "India",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "uefv7y",
-            "date": "2022-04-29 06:40:02",
-            "content": "it's important to keep perspective about the heatwave",
-            "username": "QueerSatanic",
-            "subreddit": "india",
-            "url": "https://i.redd.it/vm4ixwtexew81.jpg",
-            "complaint_score": 0.8061075806617737
-        },
-        "referenceNumber": "a1a214ac-fad6-43d7-a394-3cea8d192c75"
-    },
-    {
-        "department": "N/A",
-        "summary": "Karen",
-        "severity": "Low",
-        "location": "India",
-        "name": "texasbluemoon",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "n6ptj6",
-            "date": "2021-05-07 04:00:52",
-            "content": "Can we have some of Karen\u2019s?",
-            "username": "texasbluemoon",
-            "subreddit": "india",
-            "url": "https://i.redd.it/rt5pfi0ugmx61.jpg",
-            "complaint_score": 0.8898111581802368
-        },
-        "referenceNumber": "bc37caa0-f29a-44ae-aa5f-2a0829ead8da"
-    },
-    {
-        "department": "N/A",
-        "summary": "Nirbhaya rapist and his lawyer blaming the victim",
-        "severity": "High",
-        "location": "India",
-        "name": "rustyyryan",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1evsqfm",
-            "date": "2024-08-19 04:07:09",
-            "content": "Nirbhaya rapist and his lawyer blaming the victim.[From documentary India's daughter]",
-            "username": "rustyyryan",
-            "subreddit": "india",
-            "url": "https://www.reddit.com/gallery/1evsqfm",
-            "complaint_score": 0.9681428670883179
-        },
-        "referenceNumber": "7430dbdb-c0c4-438d-a89e-88cadc2740c7"
-    },
-    {
-        "department": "Environment Department",
-        "summary": "Lack of oxygen production",
-        "severity": "High",
-        "location": "India",
-        "name": "aafwani",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "nb4ljg",
-            "date": "2021-05-13 01:05:01",
-            "content": "33 million gods in India and not one capable of producing oxygen: Charlie Hebdo",
-            "username": "aafwani",
-            "subreddit": "india",
-            "url": "https://i.redd.it/uyyh2tgxesy61.jpg",
-            "complaint_score": 0.8704103231430054
-        },
-        "referenceNumber": "6cdd636d-cff9-4b9f-ac51-eee6cc998c49"
-    },
-    {
-        "department": "Environment Department",
-        "summary": "Climate activist being compared to Kasab on Twitter",
-        "severity": "Moderate",
-        "location": "N/A",
-        "name": "Disha Ravi",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "lk54uz",
-            "date": "2021-02-15 03:58:19",
-            "content": "Disha Ravi, A climate activist who is being compared to Kasab on twitter.",
-            "username": "N/A",
-            "subreddit": "india",
-            "url": "https://i.redd.it/wupiulhjekh61.jpg",
-            "complaint_score": 0.968133270740509
-        },
-        "referenceNumber": "fbdd6881-bbfe-4ba8-af1d-a7a22b537a4e"
-    },
-    {
-        "department": "N/A",
-        "summary": "Haves vs Have-nots in India",
-        "severity": "High",
-        "location": "India",
-        "name": "GeneralYak9175",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1ifrg9g",
-            "date": "2025-02-02 06:47:42",
-            "content": "Haves vs Have-nots in India",
-            "username": "GeneralYak9175",
-            "subreddit": "india",
-            "url": "https://i.redd.it/5cjcrb86aoge1.jpeg",
-            "complaint_score": 0.9674246311187744
-        },
-        "referenceNumber": "32bb5bf9-4e69-4dba-94b1-cacae933c06f"
-    },
-    {
-        "department": "Public Works Department",
-        "summary": "Twitter exchange about poor road conditions",
-        "severity": "Moderate",
-        "location": "India",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "rnixlm",
-            "date": "2021-12-24 09:40:28",
-            "content": "This twitter exchange",
-            "username": "N/A",
-            "subreddit": "india",
-            "url": "https://i.redd.it/7a1dinizng781.jpg",
-            "complaint_score": 0.8544409871101379
-        },
-        "referenceNumber": "2d9dd5b7-60eb-4f5f-887e-a9b29737e2d0"
-    },
-    {
-        "department": "Social Welfare Department",
-        "summary": "Argument against caste system denial",
-        "severity": "Moderate",
-        "location": "India",
-        "name": "mouthbreatherfan",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "mjo2ta",
-            "date": "2021-04-04 03:30:12",
-            "content": "A simple argument for those who deny problems with the caste system",
-            "username": "mouthbreatherfan",
-            "subreddit": "india",
-            "url": "https://i.ibb.co/QmhCcMp/Ey-DTUUMUYAY7-Nxe.jpg",
-            "complaint_score": 0.8092794418334961
-        },
-        "referenceNumber": "cf9679d1-35be-47af-b18f-0d01f4c4608e"
-    },
-    {
-        "department": "N/A",
-        "summary": "Boycott China",
-        "severity": "High",
-        "location": "China",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "hajudt",
-            "date": "2020-06-17 04:15:25",
-            "content": "China get out. Boycott China. .. Sponsored by Vivo.",
-            "username": "dlisfyn",
-            "subreddit": "india",
-            "url": "https://i.redd.it/jzxz6opxbe551.jpg",
-            "complaint_score": 0.9729220271110535
-        },
-        "referenceNumber": "116d6251-2f6b-4e15-87ee-811ade3bd356"
-    },
-    {
-        "department": "N/A",
-        "summary": "Boycott China",
-        "severity": "Low",
-        "location": "N/A",
-        "name": "Fabulous-Rice",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "gtxidr",
-            "date": "2020-05-31 11:29:52",
-            "content": "Boycott China.",
-            "username": "Fabulous-Rice",
-            "subreddit": "india",
-            "url": "https://i.redd.it/zaizrdq063251.jpg",
-            "complaint_score": 0.9684914350509644
-        },
-        "referenceNumber": "e438dca0-baf5-414c-8ce6-a0a6face0243"
-    },
-    {
-        "department": "Health and Sanitation Department",
-        "summary": "suicide note, NIT student",
-        "severity": "High",
-        "location": "N/A",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "sakrek",
-            "date": "2022-01-23 04:10:25",
-            "content": "A guy from an NIT commited suicide a few days ago. His suicide note.",
-            "username": "your_mom_tastes_nice",
-            "subreddit": "india",
-            "url": "https://i.redd.it/aedd1pag4dd81.jpg",
-            "complaint_score": 0.8738513588905334
-        },
-        "referenceNumber": "ae767808-3b4d-4e2f-8b46-62f5d5cf432c"
-    },
-    {
-        "department": "Immigration Department",
-        "summary": "German exchange student being sent back home for joining protest",
-        "severity": "High",
-        "location": "IIT Madras",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "eev8g5",
-            "date": "2019-12-24 03:10:46",
-            "content": "German exchange Student at IIT Madras is being sent back home by the Indian immigration department because he joined the protest.",
-            "username": "beethoven45",
-            "subreddit": "india",
-            "url": "https://i.redd.it/j816l4c40i641.jpg",
-            "complaint_score": 0.9645072817802429
-        },
-        "referenceNumber": "fa3a9e04-b60a-40af-bd13-75bce4329f45"
-    },
-    {
-        "department": "N/A",
-        "summary": "India's Tricolour Flag seen waving at Washington DC Capitol Riots",
-        "severity": "Low",
-        "location": "Washington DC",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "ks7q8q",
-            "date": "2021-01-07 06:48:38",
-            "content": "India's Tricolour Flag seen waving at Washington DC Capitol Riots...",
-            "username": "AatmanirbharBerojgar",
-            "subreddit": "india",
-            "url": "https://i.redd.it/saaj6pldxu961.jpg",
-            "complaint_score": 0.9298779964447021
-        },
-        "referenceNumber": "d9f2b615-fc66-4f69-830e-7b9a0e64c94a"
+        "referenceNumber": "afdfaf0e-a1b3-48dd-8fcf-e3d7f98a0346"
     },
     {
         "department": "Local Police Station",
-        "summary": "Hyderabad cop helps ambulance through traffic",
-        "severity": "Low",
-        "location": "Hyderabad",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "joh0pa",
-            "date": "2020-11-05 11:11:33",
-            "content": "Hyderabad cop running for 2 km to help ambulance get through traffic",
-            "username": "N/A",
-            "subreddit": "india",
-            "url": "https://v.redd.it/f4fchsepmex51",
-            "complaint_score": 0.8507364988327026
-        },
-        "referenceNumber": "410d1d63-1eff-4026-8df7-a4c62e02cacb"
-    },
-    {
-        "department": "Environment Department",
-        "summary": "Tragedy of India",
-        "severity": "High",
-        "location": "India",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "4s5bpn",
-            "date": "2016-07-10 12:40:21",
-            "content": "Tragedy of India",
-            "username": "hd-86",
-            "subreddit": "india",
-            "url": "http://i.imgur.com/sgzTMyR.jpg",
-            "complaint_score": 0.9416202306747437
-        },
-        "referenceNumber": "88f85091-0e21-4de7-b40c-140c20580c81"
-    },
-    {
-        "department": "N/A",
-        "summary": "Twitter suspends Kangana's account",
-        "severity": "Moderate",
-        "location": "N/A",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "n4hxtk",
-            "date": "2021-05-04 06:48:52",
-            "content": "Twitter suspends Kangana's account",
-            "username": "bhadwendra",
-            "subreddit": "india",
-            "url": "https://imgur.com/HIDk3ZT",
-            "complaint_score": 0.9350005984306335
-        },
-        "referenceNumber": "b6190c0c-ac8d-4cad-afdf-6ce6cc389080"
-    },
-    {
-        "department": "N/A",
-        "summary": "Irrfan Khan dies at 54",
-        "severity": "Low",
-        "location": "N/A",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "ga4ab5",
-            "date": "2020-04-29 06:27:30",
-            "content": "Irrfan Khan dies at 54",
-            "username": "shr612",
-            "subreddit": "india",
-            "url": "https://www.hindustantimes.com/bollywood/irrfan-khan-dies-at-54/story-Hd8s2xZ6uNeqDjgV0sl7zI.html",
-            "complaint_score": 0.8309950232505798
-        },
-        "referenceNumber": "34046de7-1b9b-487d-b0ef-5e10e07103de"
-    },
-    {
-        "department": "N/A",
-        "summary": "Wealth inequality in India",
-        "severity": "Moderate",
-        "location": "India",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "fyyx8c",
-            "date": "2020-04-11 07:17:54",
-            "content": "The wealth inequality in India is truly horrifying",
-            "username": "sinsandtonic",
-            "subreddit": "india",
-            "url": "https://i.redd.it/3rol63nk35s41.jpg",
-            "complaint_score": 0.9256291389465332
-        },
-        "referenceNumber": "53f91dde-49c9-4567-992f-ec94d26228db"
-    },
-    {
-        "department": "Education Department",
-        "summary": "Gang rape survivor denied school admission and board exam admit card",
-        "severity": "High",
-        "location": "India",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "1bwepys",
-            "date": "2024-04-05 10:31:59",
-            "content": "Gang rape survivor shunned from school, denied boards admit card\nShe had been enduring this pain and humiliation for 5 months. Being born a woman in India is a curse.",
-            "username": "capricious3-14",
-            "subreddit": "india",
-            "url": "https://i.redd.it/lzs3c4702nsc1.jpeg",
-            "complaint_score": 0.9269876480102539
-        },
-        "referenceNumber": "402638da-38dd-4083-8bbf-91ef37718cc7"
-    },
-    {
-        "department": "N/A",
-        "summary": "Unknown/Cannot classify",
-        "severity": "Low",
-        "location": "N/A",
-        "name": "N/A",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "mdq4l9",
-            "date": "2021-03-26 14:41:15",
-            "content": "Cheat code",
-            "username": "about6140ninjas",
-            "subreddit": "india",
-            "url": "https://i.redd.it/rodsh6wswdp61.jpg",
-            "complaint_score": 0.9585406184196472
-        },
-        "referenceNumber": "1a354404-9082-4bfd-8c41-c02205ffa7c1"
-    },
-    {
-        "department": "N/A",
-        "summary": "Satirical Modi-themed chrome dinosaur game",
-        "severity": "Low",
-        "location": "N/A",
-        "name": "maxmess",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "iw67hi",
-            "date": "2020-09-20 03:05:05",
-            "content": "I bought the domain name pmcares.fund because it was available and made a satirical modi-themed chrome dinosaur game in it\nPlease go to [pmcares.fund](https://pmcares.fund) and play the game. \n\n(My drawing is a bit shit  but I hope you enjoy it!)\n\nEdit: Wow guys, this is so overwhelming! Did not expect this to blow up so much (so many awards!). Thank you so much!",
-            "username": "maxmess",
-            "subreddit": "india",
-            "url": "https://www.reddit.com/r/india/comments/iw67hi/i_bought_the_domain_name_pmcaresfund_because_it/",
-            "complaint_score": 0.9032946825027466
-        },
-        "referenceNumber": "b9a59933-a6e2-4495-a6d8-c33c2e9df197"
-    },
-    {
-        "department": "N/A",
-        "summary": "Reject a Hindu Nazi state",
-        "severity": "High",
-        "location": "India",
-        "name": "iSalaamU",
-        "content_platform": "Reddit",
-        "content_platform_details": {
-            "post_id": "eaxdzc",
-            "date": "2019-12-15 10:14:54",
-            "content": "Dear Hindus, we Indian Muslims rejected an Islamic state in 1947.. Now it's your turn to reject a Hindu Nazi state.. Speak up. NOW",
-            "username": "iSalaamU",
-            "subreddit": "india",
-            "url": "https://i.redd.it/om0pk80lvr441.jpg",
-            "complaint_score": 0.9651422500610352
-        },
-        "referenceNumber": "74719ede-74cb-4b37-9c2d-e906405bf473"
-    },
-    {
-        "department": "Local Police Station",
-        "summary": "Corruption in justice system, wealthy 17-year-old driver gets bail after killing 2 people in traffic accident",
+        "summary": "Corruption in the justice system, wealthy teen gets bail after killing two people in a traffic accident",
         "severity": "High",
         "location": "Pune",
-        "name": "N/A",
+        "name": "passionguesthouse",
         "content_platform": "Reddit",
         "content_platform_details": {
             "post_id": "1cw8far",
@@ -1219,14 +211,14 @@
             "username": "passionguesthouse",
             "subreddit": "LegalAdviceIndia",
             "url": "https://www.reddit.com/r/LegalAdviceIndia/comments/1cw8far/a_drunk_17yearold_driver_kills_2_people_in_a/",
-            "complaint_score": 0.9094380140304565
+            "complaint_score": 0.9094371199607849
         },
-        "referenceNumber": "6acb0873-0f99-433c-a1d4-0b260d7628d3"
+        "referenceNumber": "37a6a81d-0f49-4221-b63f-16574f949305"
     },
     {
         "department": "N/A",
-        "summary": "Complainant's fianc\u00e9 labeled them a patriarchal chauvinist for supporting Atul Subhash on social media.",
-        "severity": "Low",
+        "summary": "Fiancee accuses partner of being patriarchal chauvinist over social media post",
+        "severity": "Moderate",
         "location": "N/A",
         "name": "N/A",
         "content_platform": "Reddit",
@@ -1237,9 +229,9 @@
             "username": "Swimming-Library-909",
             "subreddit": "AskIndia",
             "url": "https://www.reddit.com/r/AskIndia/comments/1hbv65m/my_fiance_of_one_month_labeled_me_a_patriarchal/",
-            "complaint_score": 0.9028825759887695
+            "complaint_score": 0.90288245677948
         },
-        "referenceNumber": "c3e0a2d5-8c2d-4537-9d11-03437c8e44f8"
+        "referenceNumber": "c9a85914-231c-486d-95ef-77b15cad7fdc"
     },
     {
         "department": "N/A",
@@ -1255,8 +247,8 @@
             "username": "AutoModerator",
             "subreddit": "modi",
             "url": "https://www.reddit.com/r/modi/comments/kfhol5/happy_cakeday_rmodi_today_youre_8/",
-            "complaint_score": 0.9182338118553162
+            "complaint_score": 0.9182344079017639
         },
-        "referenceNumber": "7968fd50-8750-4379-8e9e-fe3d1eddec6d"
+        "referenceNumber": "5d3cf33e-abf1-423a-8e6f-da09dfd2a5fe"
     }
 ]
